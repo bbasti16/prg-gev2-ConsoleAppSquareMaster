@@ -18,6 +18,7 @@ namespace ConsoleAppSquareMaster
            * the chance of extending is determined by the value chanceExtra and is expressed as a possibility between 0 and maxRandom
            * the chance of decreasing the column is expressed by the value chanceLess
            */
+           //test
         public bool[,] BuildWorld1(int maxy,int maxx)
         {          
             int dx=maxx;
